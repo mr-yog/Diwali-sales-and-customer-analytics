@@ -35,5 +35,5 @@ This Power BI project analyzes sales and customer data during the Diwali festive
 
 ## Tech Stack
 - **Power BI Desktop** – Data visualization and dashboard creation  
-- **CSV/Excel** – Sales and customer dataset  
+- **CSV/Excel** – Sales and customer dataset 
 
